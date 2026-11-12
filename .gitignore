@@ -1,0 +1,5 @@
+git-lab/.env
+git-lab/logs/
+*.log
+git-lab/tasks/
+git-lab/nude_modules/
