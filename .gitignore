@@ -5,3 +5,4 @@ git-lab/tasks/
 git-lab/nude_modules/
 *__pycache__
 *.db
+*.idea
